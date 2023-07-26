@@ -6,7 +6,7 @@ public class Myoperations {
 	{
 		return x+y;
 	}
-    public String getFullName(String firstname, String lastname)
+    public String getYourName(String firstname, String lastname)
     {
     	return firstname+' '+lastname;
     }
