@@ -5,6 +5,7 @@ public class Welcoming {
 	{
 	
 	System.out.println("Welcom to git");
+	System.out.println("Welcom to git");
 
 }
 }
