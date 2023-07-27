@@ -17,7 +17,7 @@ public class MyoperationsTest {
 
 	@Test
 	public void testGetFullName() {
-		assertEquals("Abinaya kannan",new Myoperations().getFullName("Abinaya","kannan"));
+		assertEquals("Abinaya kannan",new Myoperations().getMyName("Abinaya","kannan"));
 	}
 
 }
